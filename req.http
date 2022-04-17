@@ -1,0 +1,1 @@
+GET http://localhost:8080/api?city=san%20francisco Http/1.1
